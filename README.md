@@ -1,0 +1,2 @@
+- [English CV](https://juanhosz.github.io/CV/Juan_Hoszowski_CV_EN.pdf)
+- [Spanish CV](https://juanhosz.github.io/CV/Juan_Hoszowski_CV_ES.pdf)
